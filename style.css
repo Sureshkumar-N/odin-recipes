@@ -1,0 +1,19 @@
+.head{
+    font-style: italic;
+    font-size: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+.homepageimage img{
+    float: left;
+    margin-right: 75px;
+    width: 850px;
+    height: 550px;
+    display: flex;
+}
+.content .list{
+    font-style: italic;
+    color: #07083f;
+    font-size: 30px;
+}
